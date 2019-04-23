@@ -36,6 +36,7 @@ Introduction to ML
 ## ML Concepts
 * Variance / Bias
 * Overfitting / Underfitting
+* Regularization
 * Performance Metrics
 * Test Train Split
 * Hyper Parameter Tuning 
@@ -48,10 +49,11 @@ Introduction to ML
 * Naive Bayes
 * Decision Trees
 * Random Forest
+* SVM
 * PCA
 * Deep Learning
 * NLP
-
+* Time Series 
 
 ## Hands_On Excercises / Challenges 
 For each section there will be individual/group excercises 
