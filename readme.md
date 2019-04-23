@@ -37,7 +37,6 @@ Introduction to ML
 
 ## ML Algorithms
 * [Linear Regression](https://github.com/mjghorbany/DI_git/tree/master/Linear%20Regression) 
-* Linear Regression
 * Logistic Regression
 * KNN
 * Naive Bayes
