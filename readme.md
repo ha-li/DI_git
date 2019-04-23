@@ -1,11 +1,22 @@
-Getting Started With Git and GitHub
+Introduction to ML
 ===================================
 
+## Python Basics
 
 
-## Some links for more in depth learning
-### Hands on / interactive learning
+## Data Cleaning and Manipulation
+### Pandas
+
+### Visualization
+* MatplotLib
+* Seaborn
+
+## ML Concepts
+
+## ML Algorithms
 
 
 
-* This is a test
+
+Setting up
+------------
