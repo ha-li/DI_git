@@ -5,7 +5,7 @@ Introduction to ML
 * Ask questions anytime 
 
 # OverView 
-* AI
+* AI vs. RPA
 * Machine learning
 * Machine Reasoning
 * AWS Stack
