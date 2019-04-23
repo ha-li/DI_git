@@ -9,11 +9,13 @@ Introduction to ML
 * Machine learning
 * Machine Reasoning
 * AWS Stack
+  - S3
+  - SageMaker
 * Applications
 * Databases
   - Relational
-    - S3
   - Graph
+     - Neo4j
 
 
 ## Python Basics
