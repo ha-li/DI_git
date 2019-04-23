@@ -4,6 +4,13 @@ Introduction to ML
 * Lets keep the class interactive 
 * Ask questions anytime 
 
+
+3 Days plan
+------------
+1. Overview / Python / Pandas
+2. Pandas/ Data visualization / ML Algorithms
+3. More ML Algorithms / Deep Learning
+
 # OverView 
 * AI vs. RPA
 * Machine learning
