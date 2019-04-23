@@ -49,7 +49,7 @@ Introduction to ML
 
 ## Hands_On Excercises / Challenges 
 For each section there will be individual/group excercises 
-** Spam Detection Challenge
+* Spam Detection Challenge
 
 
 Setting up
