@@ -10,6 +10,10 @@ Introduction to ML
 * Machine Reasoning
 * AWS Stack
 * Applications
+* Databases
+  - Relational
+    - S3
+  - Graph
 
 
 ## Python Basics
